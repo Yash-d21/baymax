@@ -1,0 +1,6 @@
+CREATE TABLE flashcards (
+    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    set_name TEXT NOT NULL,
+    question TEXT NOT NULL,
+    answer TEXT NOT NULL
+);
