@@ -1,16 +1,35 @@
-# baymax
+# 🤖 BayMax
 
-A new Flutter project.
+**BayMax** is your intelligent learning assistant that scans PDFs and transforms them into powerful study aids. Whether you're a student or a lifelong learner, BayMax helps you retain information more effectively by generating:
 
-## Getting Started
+- 📄 **Summaries**  
+- 🧠 **Flashcards**  
+- 📝 **Quizzes**  
+- 💬 **AI-powered Chatbot for Doubt Clearing**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **📚 PDF Scanning:** Upload any PDF document and let BayMax extract meaningful content.
+- **🧠 Flashcard Generator:** Instantly convert key concepts into flashcards for quick revision.
+- **📝 Quiz Generator:** Create custom quizzes based on the PDF content to test your understanding.
+- **🧾 Summarizer:** Get concise summaries to grasp the core ideas without reading everything.
+- **💬 Chatbot Assistant:** Ask questions directly to our AI-powered chatbot trained on your uploaded content.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+<!--*(Add your screenshots here)*-->
+
+
+---
+
+## 🧪 How It Works
+
+1. **Upload PDF**
+2. **BayMax parses and processes the content**
+3. **Choose what you need: Summary, Flashcards, Quizzes**
+4. **Ask questions to the chatbot based on the document**
+
